@@ -15,10 +15,10 @@ const sliderImg = document.getElementById("innerDiv2Img");
    ];
   } else {
     animationArray = [
-     "slideVertically 5.6s ease-in-out infinite",
-     "slideVerticallyInverse 5.6s ease-in-out infinite",
-     "slideHorizontally 5.8s ease-in-out infinite",
-     "slideHorizontallyInverse 5.8s ease-in-out infinite"
+     "slideVertically 6.6s ease-in-out infinite",
+     "slideVerticallyInverse 6.6s ease-in-out infinite",
+     "slideHorizontally 6.8s ease-in-out infinite",
+     "slideHorizontallyInverse 6.8s ease-in-out infinite"
    ];
   }
 }
