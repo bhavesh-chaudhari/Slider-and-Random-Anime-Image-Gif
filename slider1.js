@@ -10,8 +10,8 @@ const sliderImg = document.getElementById("innerDiv2Img");
     animationArray = [
      "slideVertically 6.9s ease-in-out infinite",
      "slideVerticallyInverse 6.9s ease-in-out infinite",
-     "slideHorizontally 6.9s ease-in-out infinite",
-     "slideHorizontallyInverse 6.9s ease-in-out infinite"
+     "slideHorizontally 6.8s ease-in-out infinite",
+     "slideHorizontallyInverse 6.8s ease-in-out infinite"
    ];
   } else {
     animationArray = [
